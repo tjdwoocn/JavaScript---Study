@@ -137,3 +137,6 @@
     - web console 에서 확인가능한 message와 같은 message 출력 
     - JavaScript 코드를 web에서 실행시킨 것과 같은 결과 출력
   - --> Node 는 JavaScript 코드를 실행 가능하게 하는 Runtime Environment
+
+---
+
